@@ -1,0 +1,9 @@
+{
+  "name": "image-data",
+  "author": "Michael Rhodes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "a collection of functions for non-destructive image data manipulation",
+  "repository": "git://github.com:michaelrhodes/image-data",
+  "license": "MIT"
+}
